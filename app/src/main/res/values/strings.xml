@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MaterialDesign</string>
+    <string name="etName">Nombre</string>
+    <string name="etUsername">Apellidos</string>
+    <string name="etEmail">Email</string>
+    <string name="etPassword">Contraseña</string>
+    <string name="etPassConfirm">Confirme Contraseña</string>
+    <string name="tvGender">Género</string>
+    <string name="rbFemale">Mujer</string>
+    <string name="rbMale">Hombre</string>
+    <string name="rbAnother">Otrx</string>
+    <string name="btnRegistrer">REGISTRAR</string>
+    <string name="etPhone">Teléfono</string>
+    <string name="etAddress">Dirección</string>
+    <string name="etCompany">Compañía</string>
+    <string name="btnFacebook">REGISTRAR CON FACEBOOK</string>
+
+</resources>
